@@ -11,7 +11,7 @@ st.set_page_config(
 )
 
 # ── Load model ───────────────────────────────────────────────
-model = joblib.load('churn_model.pkl')
+model = joblib.load('app/churn_model.pkl')
 
 # ── Header ───────────────────────────────────────────────────
 st.markdown("""
