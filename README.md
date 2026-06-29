@@ -64,3 +64,45 @@ customer-churn-prediction/
 ├── .gitignore
 └── README.md
 ```
+---
+
+# 📊 SQL Analysis
+
+SQL was used to analyze customer behavior and identify key business insights before building the machine learning model.
+
+### SQL Queries Performed
+
+- Overall Customer Churn Rate
+- Churn by Contract Type
+- Average Monthly Charges by Churn Status
+- Churn by Tenure Group
+- Top Payment Methods among Churned Customers
+
+### Key Business Insights
+
+- Overall churn rate: **26.58%**
+- Customers with **Month-to-Month contracts** showed the highest churn.
+- Customers with **higher monthly charges** were more likely to churn.
+- Customers with **shorter tenure** exhibited significantly higher churn rates.
+- **Electronic Check** was the most common payment method among churned customers.
+---
+
+# 📈 Exploratory Data Analysis (EDA)
+
+Exploratory Data Analysis was performed to understand customer behavior and identify factors associated with churn.
+
+### Visualizations Created
+
+- Customer Churn Distribution
+- Churn by Contract Type
+- Monthly Charges vs Churn
+- Tenure vs Churn
+- Correlation Heatmap
+
+### Key Findings
+
+- Approximately **26.6%** of customers had churned.
+- Customers with Month-to-Month contracts had the highest churn.
+- Customers with higher monthly charges tended to churn more frequently.
+- Customers with lower tenure were significantly more likely to leave.
+- Correlation analysis highlighted relationships between customer demographics, subscribed services, and churn behavior.
