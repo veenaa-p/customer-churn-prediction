@@ -34,3 +34,33 @@ This project analyzes customer behavior, identifies churn patterns, and predicts
 - Power BI
 - Streamlit
 - Joblib
+---
+
+# 📂 Project Structure
+
+```text
+customer-churn-prediction/
+│
+├── app/
+│   ├── app.py
+│   └── churn_model.pkl
+│
+├── data/
+│   ├── raw/
+│   ├── cleaned/
+│   └── visuals/
+│
+├── notebooks/
+│   ├── eda.ipynb
+│   └── model.ipynb
+│
+├── powerbi/
+│   └── churn_dashboard.pbix
+│
+├── sql/
+│   └── queries.sql
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
