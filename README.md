@@ -2,7 +2,6 @@
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-red?style=for-the-badge&logo=streamlit)](https://veenaa-churn-prediction.streamlit.app)
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/veenaa-p/customer-churn-prediction)
 ---
 
 An end-to-end **Data Analytics and Machine Learning** project that predicts customer churn using the **Telco Customer Churn Dataset**. This project demonstrates the complete analytics workflow—from SQL-based business analysis and exploratory data analysis (EDA) to Machine Learning, Power BI dashboard development, and deployment with Streamlit.
